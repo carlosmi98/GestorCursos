@@ -1,12 +1,31 @@
-Este programa lo empecé con la idea de avanzar mis conocimientos en Java. Por ejemplo, los mapas siempre me parecieron interesantes, pero en clase 
-ni siquiera los llegamos a mencionar. Conceptos básicos como la herencia, el polimorfismo, la organización del código o la refactorización apenas se 
-tocaron, y yo quería adentrarme en ellos por mi cuenta.
+# Explorador de Mapas en Java
 
-La idea de este proyecto es precisamente esa: explorar más allá de lo aprendido en clase. Aunque este año tengo trabajos y exámenes de otras asignaturas,
-mi intención es seguir desarrollándolo poco a poco. El siguiente paso será guardar toda la información del mapa en un archivo de texto, y que al abrir
-el programa se cargue automáticamente en el mapa para permitir modificaciones.
+Este proyecto nace como una iniciativa personal para profundizar en el desarrollo con **Java**, más allá de lo visto en clase. Aunque conceptos como los mapas, la herencia, el polimorfismo o la refactorización apenas se abordaron en el temario oficial, decidí explorarlos por mi cuenta para ampliar mis conocimientos y mejorar como programador.
 
-También estoy valorando dejar la información antigua en el archivo y gestionar las nuevas en el mapa, como una forma de versionado. A partir de ahí, 
-quiero seguir profundizando en el manejo de archivos JSON, el uso de interfaces y otros conceptos más avanzados.
+## Objetivo del proyecto
 
-Este proyecto representa mi evolución como desarrollador y mi interés por aprender más allá del temario.
+El propósito principal es construir una aplicación que permita gestionar mapas de forma dinámica, integrando funcionalidades que reflejen buenas prácticas de programación orientada a objetos.
+
+## Estado actual
+
+Actualmente, el proyecto se encuentra en fase inicial, con una estructura básica que permite visualizar y manipular mapas. El siguiente paso será:
+
+- **Guardar la información del mapa en un archivo de texto**.
+- **Cargar automáticamente los datos al iniciar el programa**, permitiendo su modificación.
+- **Implementar un sistema de versionado**, manteniendo los datos antiguos y gestionando los nuevos desde el mapa.
+
+## Próximos pasos
+
+A medida que avance el curso, y en paralelo a otras asignaturas, continuaré desarrollando el proyecto con los siguientes objetivos:
+
+- Integrar manejo de archivos **JSON**.
+- Aplicar **interfaces** para mejorar la modularidad.
+- Profundizar en conceptos avanzados como la **organización del código**, la **refactorización** y el diseño orientado a objetos.
+
+## Visión personal
+
+Este proyecto representa mi evolución como desarrollador y mi compromiso con el aprendizaje autónomo. Es una muestra de mi interés por ir más allá del temario académico y construir soluciones funcionales aplicando buenas prácticas de desarrollo.
+
+---
+
+¿Quieres que te ayude a añadir una sección de instalación, tecnologías utilizadas o incluso una demo visual con capturas? También puedo ayudarte a traducirlo al inglés si estás pensando en compartirlo con una comunidad más amplia.
